@@ -90,7 +90,8 @@ public class DataType{
 		System.out.println("str = " +str);
 		System.out.println("z = " +z);
 		System.out.println("A 의 ASCII 주소 = " +(int)z);
-		System.out.printf("%.3f" , f);
+		
+		
 		
 		
 	}
